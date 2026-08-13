@@ -13,3 +13,6 @@ toki is a small, minimal case for (the) Le Chiffre keyboard. the toki pona word 
 the "withlogo" step file (not present in the stl) has the small toki symbol as an embedded object so it can be printed in a different color (with a bambu ams, for instance).
 
 ![toki_chiff.jpg](toki_chiff.jpg)
+
+
+After falling in love with Astra's case, I made some slight changes to fit my preference. On the bottom, I added a 6* typing angle, .9mm deep SKUF slots, and slots for for 1/4oz wheel weights. For the top, I just added cutout for switches to clip into so they don't pull out during cap changes.
